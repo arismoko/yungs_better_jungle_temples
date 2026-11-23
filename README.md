@@ -14,6 +14,7 @@ A port of [YUNG's Better Jungle Temples](https://github.com/YUNG-GANG/YUNGs-Bett
 ## Differences from the original
 
 - The pool elements for other mods (Create, Supplementaries, Alex's Mobs) are off, so a temple never names a block that isn't there.
+- Item frames in the temple are not dressed, and dispensers that the templates leave empty are not stocked with arrows, because structure processors on Sunrise cannot read or fill a block's contents or touch entities. Vines are not kept out of the temple, and the original's "avoid" structure-set tag is read as the vanilla jungle temple set only.
 
 ## Building
 
