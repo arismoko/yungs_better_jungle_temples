@@ -1,7 +1,7 @@
 {
   "processors": [
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:green_stained_glass",
       "picks": [
         {
@@ -42,7 +42,7 @@
       }
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:torch",
       "picks": [
         {
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:wall_torch",
       "picks": [
         {
@@ -66,7 +66,7 @@
       ]
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:blast_furnace",
       "picks": [
         {
@@ -90,7 +90,7 @@
       "keep_properties": true
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:blue_concrete",
       "picks": [
         {
@@ -113,7 +113,7 @@
       }
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:pink_concrete",
       "picks": [],
       "default": {
@@ -123,7 +123,7 @@
       }
     },
     {
-      "processor_type": "horizon:yung_pillar",
+      "processor_type": "sunrise:yung_pillar",
       "target_block": {
         "id": "minecraft:orange_stained_glass"
       },
@@ -155,7 +155,7 @@
       }
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:granite",
       "picks": [
         {
@@ -196,7 +196,7 @@
       }
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:polished_granite",
       "picks": [
         {
@@ -219,7 +219,7 @@
       }
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:smooth_red_sandstone",
       "picks": [
         {
@@ -236,7 +236,7 @@
       }
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:red_sandstone_slab",
       "picks": [
         {
@@ -254,7 +254,7 @@
       "keep_properties": true
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:smooth_red_sandstone_slab",
       "picks": [
         {
@@ -272,7 +272,7 @@
       "keep_properties": true
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:cut_red_sandstone_slab",
       "picks": [
         {
@@ -290,7 +290,7 @@
       "keep_properties": true
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:red_sandstone_wall",
       "picks": [
         {
@@ -308,7 +308,7 @@
       "keep_properties": true
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:chiseled_red_sandstone",
       "picks": [
         {
@@ -325,7 +325,7 @@
       }
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:red_sandstone",
       "picks": [
         {
@@ -366,7 +366,7 @@
       }
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:red_sandstone_stairs",
       "picks": [
         {
@@ -384,7 +384,7 @@
       "keep_properties": true
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:smooth_red_sandstone_stairs",
       "picks": [
         {
@@ -402,7 +402,7 @@
       "keep_properties": true
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:granite_stairs",
       "picks": [
         {
@@ -438,7 +438,7 @@
       "keep_properties": true
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:polished_granite_stairs",
       "picks": [
         {
@@ -468,7 +468,7 @@
       "keep_properties": true
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:bricks",
       "picks": [
         {
@@ -485,7 +485,7 @@
       }
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:granite_slab",
       "picks": [
         {
@@ -503,7 +503,7 @@
       "keep_properties": true
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:polished_granite_slab",
       "picks": [
         {
@@ -521,7 +521,7 @@
       "keep_properties": true
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:soul_wall_torch",
       "picks": [],
       "default": {
@@ -532,7 +532,7 @@
       "keep_properties": true
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:dead_tube_coral_block",
       "picks": [],
       "default": {

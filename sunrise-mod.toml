@@ -1,0 +1,10 @@
+# YUNG's Better Jungle Temples for Sunrise: content only (data/ and assets/), no code.
+id = "betterjungletemples"
+name = "YUNG's Better Jungle Temples"
+version = "0.3.0"
+description = "Jungle temples redesigned as overgrown ruins with traps, puzzles and a treasure room."
+authors = ["YUNGNICKYOUNG", "Tera"]
+license = "LGPL-3.0-only"
+credits = "Ported to Minecraft 26.3 by AdLf0208, and to Sunrise by arismoko."
+homepage = "https://github.com/arismoko/yungs_better_jungle_temples"
+side = "both"

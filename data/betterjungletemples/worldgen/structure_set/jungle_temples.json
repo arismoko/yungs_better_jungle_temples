@@ -11,14 +11,14 @@
     "spacing": 24,
     "separation": 8,
     "spread_type": "linear",
-    "horizon:exclusion_zone": {
+    "sunrise:exclusion_zone": {
       "other_sets": [
         "minecraft:jungle_temples"
       ],
       "chunk_count": 4,
       "their_zones": false
     },
-    "horizon:avoid_biomes": {
+    "sunrise:avoid_biomes": {
       "biomes": [
         "#minecraft:is_river",
         "#minecraft:is_ocean"
