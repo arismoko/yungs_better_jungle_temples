@@ -18,5 +18,9 @@ A port of YUNG's Better Jungle Temples by YUNGNICKYOUNG and Tera, under the LGPL
 categories = ["worldgen", "adventure"]
 
 [[screenshots]]
-path = "page/world.png"
-caption = "TODO"
+path = "page/temple-exterior.png"
+caption = "A Better Jungle Temple's tower over the canopy."
+
+[[screenshots]]
+path = "page/dispenser-chamber.png"
+caption = "A trapped chamber inside the temple."
